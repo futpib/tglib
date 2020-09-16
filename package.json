@@ -1,16 +1,16 @@
 {
-  "name": "tglib",
+  "name": "@futpib/tglib",
   "version": "3.0.5",
   "author": "nodegin",
   "license": "MIT",
   "description": "TDLib (Telegram Database library) bindings for Node.js",
-  "homepage": "https://github.com/nodegin/tglib#readme",
+  "homepage": "https://github.com/futpib/tglib#readme",
   "bugs": {
-    "url": "https://github.com/nodegin/tglib/issues"
+    "url": "https://github.com/futpib/tglib/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodegin/tglib.git"
+    "url": "git+https://github.com/futpib/tglib.git"
   },
   "keywords": [
     "tdlib",
